@@ -1,0 +1,65 @@
+ [
+  {
+    "imageFilename": "http://abc.com/weak/001.jpg",
+    "size": 1,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/002.jpg",
+  "size": 0,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/003.jpg",
+  "size": 2,
+  "title": "Amerikadanhemenal",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.abc.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/004.jpg",
+  "size": 1,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/006.jpg",
+  "size": 1,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/007.jpg",
+  "size": 1,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/005.jpg",
+  "size": 2,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/008.jpg",
+  "size": 2,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  },
+  {
+  "imageFilename": "http://abc.com/weak/009.jpg",
+  "size": 2,
+  "title": "Apple",
+  "information": "Some features may not be available for all countries or all areas. Click here to see complete list.\n",
+  "web": "www.apple.com"
+  }
+]
